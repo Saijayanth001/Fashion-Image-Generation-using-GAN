@@ -1,5 +1,17 @@
-# Fashion-Image-Generation-using-GAN
 # Fashion Image Generator - Setup & Usage Guide
+
+## Project Overview
+
+The **Fashion Clothing Image Generator** is a Flask-based web application that uses a trained deep learning model (Fashion MNIST) to generate and visualize clothing images. The project allows users to:
+
+* View Fashion MNIST sample images
+* Generate model-predicted clothing items
+* Interact with a simple web interface built using Flask
+* Understand the workflow of loading data, training a model, and generating predictions
+
+This project serves as an introductory machine learning and computer vision tool to demonstrate image classification, neural network prediction, and interactive deployment through a web UI.
+
+---
 
 ## Preparation
 
