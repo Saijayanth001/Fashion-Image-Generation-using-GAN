@@ -1,4 +1,5 @@
 # Fashion Image Generator - Setup & Usage Guide
+Developed a fashion image generation system using Generative Adversarial Networks (GANs) to create realistic clothing designs by training on large-scale fashion datasets. Implemented the model using Python and deep learning frameworks
 
 ## Project Overview
 
